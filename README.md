@@ -147,4 +147,4 @@ Create a Docker Space for each of the back end and front end, then upload the fo
 Python, pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Seaborn, joblib, Flask, Gunicorn, Streamlit, Docker, Hugging Face Spaces.
 
 ## Author
-<Your Name>
+Mohamed Rifakath Ali A
